@@ -1,0 +1,501 @@
+Date,Month,Quarter,Product,Category,Region,Sales_Rep,Units_Sold,Unit_Price,Revenue,Cost,Profit,Discount
+2025-01-07,January,Q1,AutoReport,Support,East,Hank Torres,8,2087.49,16699.94,9860.9,6839.04,0.03
+2025-01-07,January,Q1,Analytics Pro,Software,Central,Eva Patel,9,4493.34,40440.02,27353.5,13086.52,0.0
+2025-01-08,January,Q1,Analytics Pro,Software,South,Carol Lee,7,4575.19,32026.34,19142.23,12884.11,0.03
+2025-01-08,January,Q1,Cloud Sync,Services,South,Frank Chen,1,2876.42,2876.42,1575.93,1300.49,0.01
+2025-01-09,January,Q1,Analytics Pro,Software,South,Hank Torres,8,4746.98,37975.83,19751.54,18224.29,0.14
+2025-01-09,January,Q1,AutoReport,Support,North,Alice Johnson,5,1752.67,8763.35,4859.44,3903.91,0.14
+2025-01-11,January,Q1,AutoReport,Support,South,David Kim,3,2186.23,6558.69,3907.47,2651.22,0.02
+2025-01-12,January,Q1,Cloud Sync,Services,West,Grace Obi,9,2797.26,25175.31,14618.91,10556.4,0.03
+2025-01-12,January,Q1,Cloud Sync,Services,North,Carol Lee,12,3103.27,37239.21,20817.69,16421.52,0.03
+2025-01-15,January,Q1,Analytics Pro,Software,East,Carol Lee,10,4433.16,44331.63,29879.76,14451.87,0.04
+2025-01-15,January,Q1,Cloud Sync,Services,Central,Carol Lee,10,2557.73,25577.33,17181.29,8396.04,0.13
+2025-01-15,January,Q1,Insight Engine,Consulting,East,Grace Obi,12,3738.3,44859.6,24511.61,20347.99,0.07
+2025-01-18,January,Q1,Insight Engine,Consulting,Central,Alice Johnson,4,3688.73,14754.9,9420.81,5334.09,0.06
+2025-01-19,January,Q1,AutoReport,Support,West,David Kim,6,1966.8,11800.78,6605.16,5195.62,0.14
+2025-01-20,January,Q1,Data Suite,Software,West,Carol Lee,1,3340.06,3340.06,2269.73,1070.33,0.06
+2025-01-21,January,Q1,Data Suite,Software,West,Hank Torres,9,3119.29,28073.62,16946.35,11127.27,0.02
+2025-01-21,January,Q1,Analytics Pro,Software,North,Carol Lee,12,4711.79,56541.53,32414.5,24127.03,0.07
+2025-01-22,January,Q1,Insight Engine,Consulting,Central,David Kim,6,4197.65,25185.89,15534.68,9651.21,0.08
+2025-01-22,January,Q1,Cloud Sync,Services,East,Alice Johnson,6,3030.94,18185.66,10067.8,8117.86,0.04
+2025-01-24,January,Q1,Insight Engine,Consulting,East,Grace Obi,3,3734.56,11203.68,6146.72,5056.96,0.14
+2025-01-24,January,Q1,Data Suite,Software,West,Bob Martinez,8,3593.74,28749.9,16856.37,11893.53,0.09
+2025-01-26,January,Q1,AutoReport,Support,West,Eva Patel,4,2139.02,8556.07,5280.21,3275.86,0.05
+2025-01-26,January,Q1,Data Suite,Software,Central,Grace Obi,12,3279.68,39356.16,22952.5,16403.66,0.0
+2025-01-27,January,Q1,Cloud Sync,Services,West,Bob Martinez,2,2370.2,4740.39,2768.92,1971.47,0.01
+2025-01-27,January,Q1,Cloud Sync,Services,Central,Eva Patel,6,2906.01,17436.03,9355.76,8080.27,0.08
+2025-01-28,January,Q1,AutoReport,Support,East,Carol Lee,11,2143.27,23575.95,15535.46,8040.49,0.07
+2025-01-29,January,Q1,Analytics Pro,Software,South,Eva Patel,4,4555.34,18221.36,11712.25,6509.11,0.11
+2025-01-29,January,Q1,Insight Engine,Consulting,South,Grace Obi,8,4552.82,36422.6,22226.01,14196.59,0.08
+2025-01-29,January,Q1,Data Suite,Software,North,Frank Chen,7,3261.94,22833.6,12851.63,9981.97,0.03
+2025-01-30,January,Q1,AutoReport,Support,Central,Alice Johnson,12,2133.07,25596.87,14594.74,11002.13,0.01
+2025-01-31,January,Q1,Analytics Pro,Software,West,Alice Johnson,5,4916.92,24584.6,14392.28,10192.32,0.12
+2025-02-01,February,Q1,Analytics Pro,Software,West,Eva Patel,3,4745.5,14236.51,8326.46,5910.05,0.08
+2025-02-01,February,Q1,Insight Engine,Consulting,East,David Kim,2,3823.44,7646.88,5137.49,2509.39,0.12
+2025-02-01,February,Q1,Insight Engine,Consulting,North,Frank Chen,12,4103.23,49238.81,26268.54,22970.27,0.1
+2025-02-01,February,Q1,Data Suite,Software,West,Grace Obi,10,3143.76,31437.64,21106.29,10331.35,0.0
+2025-02-05,February,Q1,Insight Engine,Consulting,West,Carol Lee,11,4006.63,44072.91,25053.39,19019.52,0.04
+2025-02-07,February,Q1,Analytics Pro,Software,West,Bob Martinez,2,4240.86,8481.71,5140.1,3341.61,0.08
+2025-02-07,February,Q1,Analytics Pro,Software,East,Carol Lee,7,4679.28,32754.96,20762.33,11992.63,0.1
+2025-02-08,February,Q1,Insight Engine,Consulting,East,Carol Lee,1,4222.13,4222.13,2291.96,1930.17,0.09
+2025-02-09,February,Q1,Cloud Sync,Services,North,Alice Johnson,11,2953.72,32490.95,18645.98,13844.97,0.11
+2025-02-10,February,Q1,AutoReport,Support,East,Alice Johnson,2,2102.12,4204.23,2480.22,1724.01,0.13
+2025-02-10,February,Q1,Cloud Sync,Services,West,Eva Patel,12,2967.39,35608.73,21246.04,14362.69,0.03
+2025-02-11,February,Q1,Analytics Pro,Software,North,Grace Obi,7,4686.96,32808.75,19040.46,13768.29,0.07
+2025-02-11,February,Q1,AutoReport,Support,West,Frank Chen,2,2116.3,4232.59,2822.12,1410.47,0.02
+2025-02-11,February,Q1,Cloud Sync,Services,Central,Carol Lee,2,2740.72,5481.43,2961.02,2520.41,0.09
+2025-02-12,February,Q1,Insight Engine,Consulting,South,Hank Torres,3,3743.45,11230.36,5930.14,5300.22,0.06
+2025-02-12,February,Q1,Cloud Sync,Services,South,Alice Johnson,7,2406.04,16842.3,10443.85,6398.45,0.11
+2025-02-12,February,Q1,Insight Engine,Consulting,North,Grace Obi,10,4026.35,40263.54,27347.63,12915.91,0.03
+2025-02-13,February,Q1,AutoReport,Support,South,Carol Lee,11,2246.55,24712.05,14355.65,10356.4,0.02
+2025-02-13,February,Q1,AutoReport,Support,Central,Eva Patel,2,2058.16,4116.32,2154.84,1961.48,0.01
+2025-02-14,February,Q1,Insight Engine,Consulting,North,David Kim,4,3666.47,14665.89,9528.61,5137.28,0.09
+2025-02-16,February,Q1,Data Suite,Software,East,Grace Obi,9,2610.71,23496.37,12402.14,11094.23,0.04
+2025-02-16,February,Q1,Data Suite,Software,Central,Alice Johnson,1,3007.04,3007.04,1942.21,1064.83,0.04
+2025-02-16,February,Q1,AutoReport,Support,Central,Grace Obi,8,2290.78,18326.2,11231.26,7094.94,0.14
+2025-02-16,February,Q1,Data Suite,Software,East,Alice Johnson,4,3129.59,12518.35,8183.85,4334.5,0.05
+2025-02-17,February,Q1,Insight Engine,Consulting,North,Frank Chen,6,3826.95,22961.7,14158.1,8803.6,0.12
+2025-02-18,February,Q1,Data Suite,Software,West,Alice Johnson,5,3217.28,16086.42,10596.57,5489.85,0.02
+2025-02-21,February,Q1,Insight Engine,Consulting,South,Eva Patel,1,4143.93,4143.93,2185.34,1958.59,0.12
+2025-02-22,February,Q1,Cloud Sync,Services,Central,Grace Obi,10,3008.61,30086.07,19252.57,10833.5,0.14
+2025-02-22,February,Q1,Analytics Pro,Software,East,Frank Chen,5,4758.32,23791.58,12893.63,10897.95,0.12
+2025-02-24,February,Q1,Insight Engine,Consulting,South,Carol Lee,12,4388.17,52658.03,31746.12,20911.91,0.01
+2025-02-24,February,Q1,Insight Engine,Consulting,East,Hank Torres,12,3443.38,41320.6,22498.18,18822.42,0.03
+2025-02-25,February,Q1,Data Suite,Software,North,Carol Lee,8,3064.19,24513.53,14574.98,9938.55,0.06
+2025-02-25,February,Q1,AutoReport,Support,West,Frank Chen,12,1914.14,22969.63,14834.44,8135.19,0.07
+2025-02-26,February,Q1,Insight Engine,Consulting,Central,Alice Johnson,11,3958.17,43539.91,26231.06,17308.85,0.04
+2025-02-27,February,Q1,Analytics Pro,Software,West,Alice Johnson,4,4527.29,18109.16,10013.88,8095.28,0.02
+2025-02-28,February,Q1,Data Suite,Software,East,Bob Martinez,10,3447.97,34479.73,18071.12,16408.61,0.05
+2025-02-28,February,Q1,Insight Engine,Consulting,North,Carol Lee,8,3568.56,28548.49,19105.35,9443.14,0.04
+2025-03-01,March,Q1,Data Suite,Software,Central,Hank Torres,2,2990.54,5981.07,3970.37,2010.7,0.07
+2025-03-02,March,Q1,Insight Engine,Consulting,South,David Kim,7,3972.4,27806.8,18531.01,9275.79,0.08
+2025-03-03,March,Q1,Insight Engine,Consulting,South,Hank Torres,2,3815.95,7631.89,4248.15,3383.74,0.01
+2025-03-04,March,Q1,Analytics Pro,Software,South,Grace Obi,11,3770.95,41480.44,26838.83,14641.61,0.07
+2025-03-05,March,Q1,AutoReport,Support,South,Eva Patel,3,1859.74,5579.21,3045.77,2533.44,0.14
+2025-03-05,March,Q1,AutoReport,Support,West,Frank Chen,7,2373.61,16615.25,9476.02,7139.23,0.02
+2025-03-05,March,Q1,Cloud Sync,Services,West,Grace Obi,12,2653.65,31843.85,18799.27,13044.58,0.14
+2025-03-06,March,Q1,AutoReport,Support,South,Bob Martinez,9,1950.56,17555.05,9710.49,7844.56,0.03
+2025-03-07,March,Q1,Data Suite,Software,North,Grace Obi,10,3337.96,33379.61,17530.34,15849.27,0.09
+2025-03-07,March,Q1,AutoReport,Support,Central,Alice Johnson,7,1964.17,13749.21,8451.68,5297.53,0.1
+2025-03-08,March,Q1,Cloud Sync,Services,South,Frank Chen,1,2798.21,2798.21,1464.88,1333.33,0.09
+2025-03-08,March,Q1,AutoReport,Support,East,Carol Lee,2,2087.05,4174.09,2612.02,1562.07,0.0
+2025-03-09,March,Q1,Data Suite,Software,South,Frank Chen,4,3727.55,14910.21,9569.91,5340.3,0.1
+2025-03-09,March,Q1,AutoReport,Support,East,Eva Patel,3,2179.6,6538.81,3669.03,2869.78,0.12
+2025-03-09,March,Q1,AutoReport,Support,West,Carol Lee,3,1829.06,5487.19,3012.11,2475.08,0.1
+2025-03-09,March,Q1,Cloud Sync,Services,North,David Kim,6,2696.82,16180.9,9151.88,7029.02,0.07
+2025-03-10,March,Q1,Insight Engine,Consulting,South,Hank Torres,12,4001.14,48013.68,32563.55,15450.13,0.06
+2025-03-10,March,Q1,Data Suite,Software,North,Alice Johnson,10,3584.6,35846.03,22368.04,13477.99,0.07
+2025-03-12,March,Q1,Analytics Pro,Software,East,Hank Torres,12,4265.42,51185.09,33422.72,17762.37,0.11
+2025-03-13,March,Q1,Data Suite,Software,West,Alice Johnson,6,2370.24,14221.41,8655.77,5565.64,0.06
+2025-03-13,March,Q1,Insight Engine,Consulting,East,David Kim,1,4307.31,4307.31,2419.53,1887.78,0.04
+2025-03-14,March,Q1,Cloud Sync,Services,North,Alice Johnson,4,2847.93,11391.73,7559.16,3832.57,0.08
+2025-03-14,March,Q1,Analytics Pro,Software,Central,Frank Chen,2,5032.78,10065.56,5835.76,4229.8,0.14
+2025-03-15,March,Q1,Insight Engine,Consulting,North,Eva Patel,3,3774.82,11324.46,6910.56,4413.9,0.09
+2025-03-15,March,Q1,Insight Engine,Consulting,South,Bob Martinez,8,4307.83,34462.63,22229.91,12232.72,0.04
+2025-03-15,March,Q1,Cloud Sync,Services,South,David Kim,12,2413.62,28963.42,17662.44,11300.98,0.04
+2025-03-15,March,Q1,Cloud Sync,Services,West,Alice Johnson,10,2651.76,26517.6,15286.09,11231.51,0.09
+2025-03-17,March,Q1,Insight Engine,Consulting,North,David Kim,8,3672.13,29377.0,19434.08,9942.92,0.14
+2025-03-18,March,Q1,AutoReport,Support,North,Frank Chen,10,2202.76,22027.62,13401.69,8625.93,0.06
+2025-03-18,March,Q1,AutoReport,Support,Central,Grace Obi,2,2206.5,4413.0,2842.8,1570.2,0.04
+2025-03-20,March,Q1,Insight Engine,Consulting,West,Bob Martinez,8,4485.37,35882.92,24347.0,11535.92,0.07
+2025-03-20,March,Q1,Insight Engine,Consulting,North,Bob Martinez,2,4050.53,8101.06,4333.39,3767.67,0.01
+2025-03-20,March,Q1,Data Suite,Software,North,Grace Obi,7,2691.18,18838.28,10793.22,8045.06,0.07
+2025-03-21,March,Q1,Cloud Sync,Services,East,David Kim,12,2405.08,28860.95,16591.03,12269.92,0.1
+2025-03-21,March,Q1,Insight Engine,Consulting,South,Bob Martinez,6,3877.28,23263.66,15243.74,8019.92,0.06
+2025-03-22,March,Q1,Insight Engine,Consulting,West,Hank Torres,11,4298.63,47284.95,26097.18,21187.77,0.14
+2025-03-22,March,Q1,Analytics Pro,Software,West,Hank Torres,12,4487.5,53850.05,33118.31,20731.74,0.04
+2025-03-23,March,Q1,Cloud Sync,Services,Central,Grace Obi,8,2774.34,22194.74,12364.62,9830.12,0.06
+2025-03-24,March,Q1,Cloud Sync,Services,West,Hank Torres,5,2578.12,12890.6,8069.69,4820.91,0.06
+2025-03-26,March,Q1,Cloud Sync,Services,Central,Grace Obi,4,2824.85,11299.39,7555.07,3744.32,0.11
+2025-03-28,March,Q1,AutoReport,Support,Central,Carol Lee,3,2342.13,7026.4,4394.29,2632.11,0.11
+2025-03-30,March,Q1,Insight Engine,Consulting,Central,Frank Chen,9,3995.88,35962.9,20739.3,15223.6,0.12
+2025-03-30,March,Q1,Data Suite,Software,South,Frank Chen,12,3034.48,36413.73,22999.65,13414.08,0.14
+2025-03-30,March,Q1,Cloud Sync,Services,Central,Bob Martinez,11,2699.19,29691.04,16075.67,13615.37,0.02
+2025-03-30,March,Q1,AutoReport,Support,South,Bob Martinez,3,2186.53,6559.58,4409.39,2150.19,0.09
+2025-03-31,March,Q1,Analytics Pro,Software,West,Hank Torres,9,3954.53,35590.78,22767.16,12823.62,0.04
+2025-04-02,April,Q2,Data Suite,Software,Central,Alice Johnson,7,2934.98,20544.85,10909.9,9634.95,0.07
+2025-04-03,April,Q2,Data Suite,Software,East,Hank Torres,4,2721.98,10887.92,6056.37,4831.55,0.02
+2025-04-04,April,Q2,Insight Engine,Consulting,South,Frank Chen,5,3826.81,19134.04,10991.63,8142.41,0.13
+2025-04-05,April,Q2,Data Suite,Software,West,Grace Obi,1,3516.88,3516.88,2243.71,1273.17,0.13
+2025-04-06,April,Q2,Analytics Pro,Software,East,Eva Patel,10,4797.15,47971.5,30121.51,17849.99,0.03
+2025-04-06,April,Q2,Analytics Pro,Software,Central,Frank Chen,2,4806.88,9613.75,6465.68,3148.07,0.08
+2025-04-06,April,Q2,Analytics Pro,Software,Central,Bob Martinez,11,4561.69,50178.62,33012.07,17166.55,0.06
+2025-04-08,April,Q2,Analytics Pro,Software,West,Frank Chen,7,4628.53,32399.68,17632.85,14766.83,0.1
+2025-04-09,April,Q2,Cloud Sync,Services,North,Carol Lee,4,2890.51,11562.03,6412.55,5149.48,0.07
+2025-04-09,April,Q2,Analytics Pro,Software,East,Carol Lee,12,4895.56,58746.72,34861.85,23884.87,0.04
+2025-04-10,April,Q2,Cloud Sync,Services,East,Carol Lee,4,2589.93,10359.71,5557.45,4802.26,0.04
+2025-04-10,April,Q2,Insight Engine,Consulting,West,Grace Obi,4,3888.82,15555.29,8456.03,7099.26,0.1
+2025-04-11,April,Q2,AutoReport,Support,South,Carol Lee,1,2430.07,2430.07,1626.16,803.91,0.0
+2025-04-12,April,Q2,Insight Engine,Consulting,West,Bob Martinez,4,4008.09,16032.37,9315.1,6717.27,0.05
+2025-04-14,April,Q2,Data Suite,Software,East,Carol Lee,5,3470.96,17354.78,9283.67,8071.11,0.05
+2025-04-15,April,Q2,Data Suite,Software,Central,Frank Chen,7,3371.44,23600.05,14486.42,9113.63,0.11
+2025-04-16,April,Q2,Analytics Pro,Software,Central,Frank Chen,9,4541.64,40874.79,23093.18,17781.61,0.08
+2025-04-17,April,Q2,Data Suite,Software,East,Bob Martinez,3,3277.2,9831.59,5489.75,4341.84,0.08
+2025-04-19,April,Q2,Insight Engine,Consulting,East,Frank Chen,7,4185.61,29299.24,16540.04,12759.2,0.14
+2025-04-20,April,Q2,Data Suite,Software,West,Hank Torres,4,3218.97,12875.87,6874.04,6001.83,0.02
+2025-04-21,April,Q2,Insight Engine,Consulting,West,David Kim,7,3632.57,25427.97,14601.48,10826.49,0.07
+2025-04-22,April,Q2,Insight Engine,Consulting,East,Frank Chen,3,3930.29,11790.86,7274.29,4516.57,0.14
+2025-04-23,April,Q2,Insight Engine,Consulting,Central,Eva Patel,1,4375.19,4375.19,2806.29,1568.9,0.02
+2025-04-24,April,Q2,Data Suite,Software,South,Grace Obi,6,3621.11,21726.67,13683.58,8043.09,0.14
+2025-04-24,April,Q2,Cloud Sync,Services,South,Bob Martinez,9,2491.4,22422.62,13931.53,8491.09,0.08
+2025-04-25,April,Q2,Analytics Pro,Software,East,Bob Martinez,12,4516.41,54196.87,33818.51,20378.36,0.12
+2025-04-26,April,Q2,Insight Engine,Consulting,Central,Frank Chen,2,4104.84,8209.69,5307.64,2902.05,0.0
+2025-04-26,April,Q2,Cloud Sync,Services,Central,Eva Patel,2,2701.43,5402.86,3026.12,2376.74,0.1
+2025-04-27,April,Q2,Data Suite,Software,North,David Kim,7,3449.74,24148.18,13825.36,10322.82,0.13
+2025-04-28,April,Q2,Analytics Pro,Software,North,Frank Chen,2,4394.99,8789.98,5293.9,3496.08,0.04
+2025-04-29,April,Q2,Cloud Sync,Services,East,Hank Torres,2,2538.22,5076.43,3198.06,1878.37,0.14
+2025-04-30,April,Q2,AutoReport,Support,South,Alice Johnson,3,2263.82,6791.46,4079.11,2712.35,0.04
+2025-04-30,April,Q2,Cloud Sync,Services,South,Alice Johnson,5,2617.26,13086.29,8602.21,4484.08,0.02
+2025-04-30,April,Q2,Insight Engine,Consulting,North,Bob Martinez,1,3530.82,3530.82,1956.59,1574.23,0.01
+2025-05-01,May,Q2,Cloud Sync,Services,North,Frank Chen,9,3224.88,29023.93,19279.77,9744.16,0.1
+2025-05-02,May,Q2,Data Suite,Software,South,Grace Obi,1,2985.16,2985.16,1637.95,1347.21,0.14
+2025-05-02,May,Q2,Cloud Sync,Services,East,Carol Lee,11,2757.36,30331.01,20068.55,10262.46,0.01
+2025-05-03,May,Q2,AutoReport,Support,West,David Kim,7,2236.67,15656.7,8250.82,7405.88,0.11
+2025-05-03,May,Q2,Insight Engine,Consulting,West,Bob Martinez,4,3882.67,15530.68,9317.37,6213.31,0.09
+2025-05-03,May,Q2,Data Suite,Software,East,Alice Johnson,9,3217.55,28957.97,16948.48,12009.49,0.03
+2025-05-03,May,Q2,Data Suite,Software,North,David Kim,11,3194.65,35141.14,19582.54,15558.6,0.02
+2025-05-04,May,Q2,Insight Engine,Consulting,North,Eva Patel,8,3712.73,29701.86,16623.15,13078.71,0.01
+2025-05-04,May,Q2,Data Suite,Software,Central,Frank Chen,1,3369.51,3369.51,1779.39,1590.12,0.07
+2025-05-05,May,Q2,Analytics Pro,Software,East,Bob Martinez,10,4382.04,43820.42,28273.88,15546.54,0.05
+2025-05-06,May,Q2,Analytics Pro,Software,West,Bob Martinez,8,4161.64,33293.15,20574.08,12719.07,0.01
+2025-05-08,May,Q2,Analytics Pro,Software,Central,Grace Obi,10,4521.68,45216.83,27825.55,17391.28,0.09
+2025-05-08,May,Q2,Analytics Pro,Software,West,Bob Martinez,1,4060.5,4060.5,2535.15,1525.35,0.08
+2025-05-08,May,Q2,Data Suite,Software,South,Hank Torres,3,3410.57,10231.71,6011.14,4220.57,0.04
+2025-05-08,May,Q2,Analytics Pro,Software,West,Carol Lee,8,3556.89,28455.13,17836.03,10619.1,0.15
+2025-05-09,May,Q2,Analytics Pro,Software,West,Frank Chen,9,4242.49,38182.42,25562.63,12619.79,0.11
+2025-05-10,May,Q2,AutoReport,Support,South,Frank Chen,2,2060.21,4120.43,2526.81,1593.62,0.02
+2025-05-11,May,Q2,Analytics Pro,Software,West,Eva Patel,11,4606.91,50676.06,30783.46,19892.6,0.01
+2025-05-15,May,Q2,AutoReport,Support,South,Bob Martinez,11,2346.23,25808.52,14652.82,11155.7,0.1
+2025-05-16,May,Q2,AutoReport,Support,West,Eva Patel,1,2154.45,2154.45,1152.13,1002.32,0.06
+2025-05-16,May,Q2,Insight Engine,Consulting,South,Eva Patel,8,3438.7,27509.61,15696.66,11812.95,0.11
+2025-05-17,May,Q2,Cloud Sync,Services,East,Alice Johnson,5,2804.7,14023.52,8758.94,5264.58,0.1
+2025-05-17,May,Q2,Data Suite,Software,North,Alice Johnson,3,3392.49,10177.48,6583.0,3594.48,0.09
+2025-05-18,May,Q2,Analytics Pro,Software,North,Frank Chen,7,4477.44,31342.05,17661.77,13680.28,0.01
+2025-05-18,May,Q2,Cloud Sync,Services,South,Bob Martinez,5,2858.48,14292.38,9448.13,4844.25,0.04
+2025-05-20,May,Q2,AutoReport,Support,Central,Hank Torres,8,1947.22,15577.78,8300.94,7276.84,0.01
+2025-05-22,May,Q2,Analytics Pro,Software,South,Eva Patel,12,4003.16,48037.96,25185.91,22852.05,0.13
+2025-05-22,May,Q2,Analytics Pro,Software,North,Frank Chen,3,4361.37,13084.11,8137.51,4946.6,0.04
+2025-05-23,May,Q2,Cloud Sync,Services,Central,Grace Obi,11,2692.66,29619.31,20051.8,9567.51,0.08
+2025-05-23,May,Q2,AutoReport,Support,South,Grace Obi,9,1957.74,17619.65,11909.61,5710.04,0.12
+2025-05-23,May,Q2,Data Suite,Software,North,Alice Johnson,12,3018.84,36226.04,19915.91,16310.13,0.08
+2025-05-24,May,Q2,AutoReport,Support,Central,Bob Martinez,3,1772.05,5316.15,3593.79,1722.36,0.06
+2025-05-25,May,Q2,Insight Engine,Consulting,West,Frank Chen,5,3448.2,17240.99,9686.85,7554.14,0.08
+2025-05-25,May,Q2,Cloud Sync,Services,East,Bob Martinez,9,2675.98,24083.84,14283.63,9800.21,0.06
+2025-05-27,May,Q2,Insight Engine,Consulting,South,Bob Martinez,3,4141.69,12425.06,8156.46,4268.6,0.07
+2025-05-27,May,Q2,Data Suite,Software,West,Frank Chen,8,3292.58,26340.63,15559.04,10781.59,0.1
+2025-05-28,May,Q2,Data Suite,Software,North,Grace Obi,2,3266.53,6533.06,4192.0,2341.06,0.11
+2025-05-28,May,Q2,Insight Engine,Consulting,West,Bob Martinez,1,3416.19,3416.19,2308.33,1107.86,0.09
+2025-05-29,May,Q2,Insight Engine,Consulting,Central,Grace Obi,4,3921.78,15687.11,10573.58,5113.53,0.14
+2025-05-29,May,Q2,Cloud Sync,Services,North,Alice Johnson,8,2813.04,22504.31,14392.01,8112.3,0.03
+2025-05-29,May,Q2,Analytics Pro,Software,South,Bob Martinez,7,4330.99,30316.92,17113.17,13203.75,0.1
+2025-05-30,May,Q2,Cloud Sync,Services,East,Grace Obi,12,2937.57,35250.88,23022.49,12228.39,0.05
+2025-05-30,May,Q2,AutoReport,Support,East,David Kim,8,1898.76,15190.05,8793.88,6396.17,0.15
+2025-05-30,May,Q2,Analytics Pro,Software,East,David Kim,9,4095.13,36856.16,20867.49,15988.67,0.12
+2025-05-31,May,Q2,Cloud Sync,Services,North,Bob Martinez,6,2517.56,15105.37,9452.14,5653.23,0.05
+2025-05-31,May,Q2,Cloud Sync,Services,East,Grace Obi,3,2522.92,7568.77,4231.48,3337.29,0.06
+2025-06-01,June,Q2,Cloud Sync,Services,North,Grace Obi,5,2647.67,13238.37,6901.11,6337.26,0.13
+2025-06-01,June,Q2,Insight Engine,Consulting,North,Bob Martinez,12,4267.99,51215.82,27793.19,23422.63,0.05
+2025-06-02,June,Q2,Data Suite,Software,East,Eva Patel,12,3361.18,40334.22,22311.46,18022.76,0.11
+2025-06-03,June,Q2,Insight Engine,Consulting,North,Frank Chen,5,4583.22,22916.09,15378.43,7537.66,0.11
+2025-06-03,June,Q2,Data Suite,Software,South,Frank Chen,9,3184.76,28662.85,15933.07,12729.78,0.15
+2025-06-04,June,Q2,Cloud Sync,Services,West,Carol Lee,2,2841.07,5682.14,3106.73,2575.41,0.04
+2025-06-04,June,Q2,Data Suite,Software,Central,David Kim,12,2763.93,33167.21,19325.88,13841.33,0.1
+2025-06-06,June,Q2,Analytics Pro,Software,South,Frank Chen,12,4724.23,56690.71,30761.36,25929.35,0.06
+2025-06-06,June,Q2,AutoReport,Support,Central,Alice Johnson,10,2067.68,20676.83,13928.27,6748.56,0.01
+2025-06-07,June,Q2,Data Suite,Software,North,David Kim,10,2835.26,28352.64,19039.14,9313.5,0.01
+2025-06-07,June,Q2,Analytics Pro,Software,South,David Kim,7,4248.1,29736.69,17804.09,11932.6,0.01
+2025-06-08,June,Q2,Cloud Sync,Services,East,Alice Johnson,3,2699.98,8099.94,5339.3,2760.64,0.08
+2025-06-11,June,Q2,Cloud Sync,Services,Central,Grace Obi,9,2725.07,24525.65,14611.01,9914.64,0.01
+2025-06-12,June,Q2,Insight Engine,Consulting,East,Eva Patel,5,3641.35,18206.77,9822.55,8384.22,0.1
+2025-06-12,June,Q2,Insight Engine,Consulting,Central,Alice Johnson,10,3957.61,39576.06,21012.8,18563.26,0.09
+2025-06-13,June,Q2,Cloud Sync,Services,North,Frank Chen,2,2776.03,5552.05,3333.04,2219.01,0.14
+2025-06-13,June,Q2,Cloud Sync,Services,West,Carol Lee,6,2844.59,17067.54,10281.43,6786.11,0.02
+2025-06-14,June,Q2,Cloud Sync,Services,North,Bob Martinez,11,2667.49,29342.37,17953.46,11388.91,0.08
+2025-06-15,June,Q2,Cloud Sync,Services,East,Eva Patel,9,3064.16,27577.46,18688.64,8888.82,0.1
+2025-06-17,June,Q2,AutoReport,Support,East,David Kim,3,2035.27,6105.8,3661.79,2444.01,0.08
+2025-06-19,June,Q2,AutoReport,Support,North,Alice Johnson,4,2081.73,8326.91,4611.67,3715.24,0.13
+2025-06-19,June,Q2,Insight Engine,Consulting,North,Carol Lee,1,3936.61,3936.61,2654.55,1282.06,0.15
+2025-06-19,June,Q2,AutoReport,Support,East,Bob Martinez,12,2327.85,27934.18,18548.5,9385.68,0.08
+2025-06-21,June,Q2,Analytics Pro,Software,South,Eva Patel,4,4630.1,18520.41,12020.67,6499.74,0.02
+2025-06-21,June,Q2,Cloud Sync,Services,West,Hank Torres,3,2751.24,8253.72,5415.84,2837.88,0.07
+2025-06-21,June,Q2,Cloud Sync,Services,Central,Bob Martinez,3,2820.55,8461.66,4604.27,3857.39,0.06
+2025-06-23,June,Q2,Data Suite,Software,West,Hank Torres,6,3651.96,21911.74,14634.62,7277.12,0.08
+2025-06-23,June,Q2,AutoReport,Support,East,Carol Lee,4,2074.5,8298.0,5114.84,3183.16,0.06
+2025-06-24,June,Q2,AutoReport,Support,Central,Grace Obi,6,2116.41,12698.46,6663.39,6035.07,0.04
+2025-06-26,June,Q2,AutoReport,Support,East,Grace Obi,12,2142.08,25704.99,14395.2,11309.79,0.13
+2025-06-29,June,Q2,AutoReport,Support,West,Carol Lee,10,2360.59,23605.94,12800.97,10804.97,0.03
+2025-06-29,June,Q2,Cloud Sync,Services,North,Alice Johnson,1,2490.25,2490.25,1448.7,1041.55,0.11
+2025-06-29,June,Q2,Cloud Sync,Services,West,Carol Lee,10,2691.28,26912.79,17046.92,9865.87,0.01
+2025-06-29,June,Q2,Data Suite,Software,North,Alice Johnson,1,3064.38,3064.38,2059.07,1005.31,0.03
+2025-06-30,June,Q2,AutoReport,Support,West,Eva Patel,11,2456.52,27021.74,18288.43,8733.31,0.14
+2025-07-01,July,Q3,Insight Engine,Consulting,West,Hank Torres,12,3895.79,46749.47,24714.92,22034.55,0.1
+2025-07-01,July,Q3,Data Suite,Software,Central,Alice Johnson,10,2970.01,29700.06,20118.15,9581.91,0.1
+2025-07-03,July,Q3,AutoReport,Support,South,Carol Lee,2,1972.93,3945.87,2208.33,1737.54,0.04
+2025-07-04,July,Q3,Cloud Sync,Services,North,Carol Lee,2,3014.88,6029.75,3316.26,2713.49,0.07
+2025-07-04,July,Q3,Data Suite,Software,East,Alice Johnson,12,3244.69,38936.3,23574.44,15361.86,0.04
+2025-07-05,July,Q3,AutoReport,Support,East,Bob Martinez,7,2458.35,17208.45,10336.79,6871.66,0.11
+2025-07-06,July,Q3,Data Suite,Software,North,Eva Patel,6,3677.64,22065.83,14113.24,7952.59,0.03
+2025-07-06,July,Q3,Analytics Pro,Software,Central,David Kim,10,4226.71,42267.12,28723.15,13543.97,0.03
+2025-07-06,July,Q3,Data Suite,Software,East,Frank Chen,4,3338.9,13355.58,8376.99,4978.59,0.11
+2025-07-07,July,Q3,AutoReport,Support,North,Hank Torres,9,2314.65,20831.85,11560.98,9270.87,0.06
+2025-07-07,July,Q3,Insight Engine,Consulting,East,Alice Johnson,7,3513.8,24596.61,12991.57,11605.04,0.08
+2025-07-10,July,Q3,Cloud Sync,Services,West,Grace Obi,6,2970.01,17820.05,11202.1,6617.95,0.01
+2025-07-10,July,Q3,Data Suite,Software,Central,Alice Johnson,10,3142.79,31427.94,21152.89,10275.05,0.08
+2025-07-11,July,Q3,Cloud Sync,Services,North,Frank Chen,2,2774.3,5548.6,3191.38,2357.22,0.11
+2025-07-12,July,Q3,Analytics Pro,Software,Central,Carol Lee,11,4724.68,51971.51,34178.85,17792.66,0.02
+2025-07-12,July,Q3,Data Suite,Software,Central,Hank Torres,4,3055.69,12222.75,8016.84,4205.91,0.05
+2025-07-14,July,Q3,Insight Engine,Consulting,East,Carol Lee,5,3725.22,18626.12,9810.95,8815.17,0.14
+2025-07-14,July,Q3,AutoReport,Support,South,Frank Chen,2,1907.98,3815.96,2226.73,1589.23,0.11
+2025-07-14,July,Q3,Cloud Sync,Services,Central,David Kim,11,2695.68,29652.44,16957.79,12694.65,0.12
+2025-07-15,July,Q3,Cloud Sync,Services,North,David Kim,8,2976.31,23810.46,12476.77,11333.69,0.13
+2025-07-16,July,Q3,AutoReport,Support,Central,Hank Torres,7,2186.43,15304.98,9635.27,5669.71,0.06
+2025-07-16,July,Q3,Data Suite,Software,Central,Carol Lee,2,2964.63,5929.25,3345.28,2583.97,0.12
+2025-07-16,July,Q3,AutoReport,Support,North,Carol Lee,11,2018.65,22205.14,13145.17,9059.97,0.06
+2025-07-18,July,Q3,AutoReport,Support,West,Bob Martinez,6,2107.89,12647.36,7288.9,5358.46,0.07
+2025-07-19,July,Q3,Cloud Sync,Services,East,Bob Martinez,2,3125.06,6250.11,3255.25,2994.86,0.05
+2025-07-19,July,Q3,AutoReport,Support,East,Grace Obi,12,2137.65,25651.77,13913.32,11738.45,0.15
+2025-07-21,July,Q3,Analytics Pro,Software,Central,Alice Johnson,7,4420.45,30943.16,19370.14,11573.02,0.02
+2025-07-21,July,Q3,AutoReport,Support,East,Frank Chen,9,1995.39,17958.48,11718.38,6240.1,0.08
+2025-07-22,July,Q3,AutoReport,Support,North,Frank Chen,5,2113.0,10564.99,6039.12,4525.87,0.15
+2025-07-22,July,Q3,Cloud Sync,Services,Central,Grace Obi,6,2611.9,15671.41,9252.96,6418.45,0.06
+2025-07-23,July,Q3,AutoReport,Support,East,Grace Obi,7,2085.03,14595.19,9228.39,5366.8,0.01
+2025-07-24,July,Q3,Cloud Sync,Services,West,Bob Martinez,1,2910.19,2910.19,1559.21,1350.98,0.03
+2025-07-25,July,Q3,Analytics Pro,Software,South,Alice Johnson,2,4808.3,9616.61,6148.65,3467.96,0.03
+2025-07-25,July,Q3,AutoReport,Support,Central,Grace Obi,9,2259.67,20337.04,10694.89,9642.15,0.15
+2025-07-25,July,Q3,Analytics Pro,Software,South,Grace Obi,1,3794.52,3794.52,2571.35,1223.17,0.04
+2025-07-26,July,Q3,AutoReport,Support,North,Hank Torres,7,2116.74,14817.19,7833.44,6983.75,0.08
+2025-07-27,July,Q3,Cloud Sync,Services,West,Bob Martinez,12,2580.14,30961.7,16396.89,14564.81,0.07
+2025-07-27,July,Q3,Insight Engine,Consulting,Central,David Kim,12,3641.9,43702.85,24304.78,19398.07,0.1
+2025-07-28,July,Q3,Insight Engine,Consulting,Central,David Kim,12,3768.76,45225.1,26962.07,18263.03,0.11
+2025-07-30,July,Q3,AutoReport,Support,Central,Hank Torres,12,1983.59,23803.09,15147.91,8655.18,0.11
+2025-07-30,July,Q3,Data Suite,Software,East,Carol Lee,12,3120.84,37450.1,20121.76,17328.34,0.13
+2025-07-31,July,Q3,Analytics Pro,Software,Central,David Kim,12,4241.36,50896.32,27654.4,23241.92,0.04
+2025-08-01,August,Q3,Analytics Pro,Software,West,Frank Chen,4,4577.93,18311.7,10653.5,7658.2,0.01
+2025-08-01,August,Q3,Analytics Pro,Software,East,Grace Obi,6,4114.48,24686.87,15464.28,9222.59,0.06
+2025-08-01,August,Q3,Cloud Sync,Services,Central,Eva Patel,1,3147.19,3147.19,1778.96,1368.23,0.04
+2025-08-01,August,Q3,Cloud Sync,Services,South,Bob Martinez,6,2886.31,17317.87,10196.52,7121.35,0.04
+2025-08-02,August,Q3,AutoReport,Support,East,Alice Johnson,10,2017.18,20171.76,12021.05,8150.71,0.15
+2025-08-03,August,Q3,AutoReport,Support,Central,David Kim,8,2348.29,18786.29,10428.41,8357.88,0.07
+2025-08-03,August,Q3,Insight Engine,Consulting,East,Carol Lee,6,3966.8,23800.78,13563.16,10237.62,0.05
+2025-08-04,August,Q3,Cloud Sync,Services,North,Hank Torres,1,2873.64,2873.64,1838.68,1034.96,0.01
+2025-08-04,August,Q3,Insight Engine,Consulting,South,Eva Patel,7,4213.1,29491.72,17921.23,11570.49,0.0
+2025-08-04,August,Q3,Cloud Sync,Services,Central,Carol Lee,8,2792.68,22341.41,15029.35,7312.06,0.12
+2025-08-04,August,Q3,AutoReport,Support,North,Bob Martinez,8,2146.48,17171.87,10161.01,7010.86,0.05
+2025-08-05,August,Q3,Cloud Sync,Services,East,Carol Lee,4,2747.55,10990.2,7398.1,3592.1,0.05
+2025-08-08,August,Q3,Cloud Sync,Services,North,Frank Chen,1,2712.17,2712.17,1779.0,933.17,0.12
+2025-08-10,August,Q3,Cloud Sync,Services,Central,Eva Patel,1,3114.23,3114.23,1664.91,1449.32,0.14
+2025-08-12,August,Q3,Insight Engine,Consulting,East,Carol Lee,12,3631.28,43575.35,29413.31,14162.04,0.1
+2025-08-12,August,Q3,Analytics Pro,Software,West,Bob Martinez,6,4628.8,27772.82,17000.34,10772.48,0.09
+2025-08-13,August,Q3,Analytics Pro,Software,South,Bob Martinez,4,3953.03,15812.11,10191.89,5620.22,0.05
+2025-08-15,August,Q3,AutoReport,Support,West,Alice Johnson,2,1986.28,3972.55,2113.55,1859.0,0.13
+2025-08-16,August,Q3,Insight Engine,Consulting,South,Bob Martinez,10,4122.02,41220.24,21638.06,19582.18,0.11
+2025-08-16,August,Q3,Analytics Pro,Software,East,Frank Chen,12,4166.31,49995.66,26517.21,23478.45,0.08
+2025-08-16,August,Q3,Analytics Pro,Software,Central,Carol Lee,9,4956.09,44604.79,25813.33,18791.46,0.05
+2025-08-16,August,Q3,AutoReport,Support,East,Hank Torres,4,2282.94,9131.77,5528.76,3603.01,0.05
+2025-08-17,August,Q3,Data Suite,Software,North,David Kim,11,3486.61,38352.72,21754.31,16598.41,0.06
+2025-08-18,August,Q3,Analytics Pro,Software,North,Eva Patel,4,4376.62,17506.49,10236.12,7270.37,0.04
+2025-08-19,August,Q3,AutoReport,Support,North,Frank Chen,1,2120.21,2120.21,1266.9,853.31,0.03
+2025-08-19,August,Q3,AutoReport,Support,West,Grace Obi,1,1832.14,1832.14,1159.3,672.84,0.03
+2025-08-19,August,Q3,Insight Engine,Consulting,South,Frank Chen,9,3658.82,32929.39,22081.88,10847.51,0.06
+2025-08-19,August,Q3,Cloud Sync,Services,North,David Kim,1,2854.87,2854.87,1607.16,1247.71,0.1
+2025-08-20,August,Q3,Analytics Pro,Software,North,Frank Chen,5,4705.52,23527.6,12523.2,11004.4,0.13
+2025-08-20,August,Q3,Cloud Sync,Services,South,Bob Martinez,4,2969.68,11878.73,6435.63,5443.1,0.12
+2025-08-21,August,Q3,Cloud Sync,Services,West,Hank Torres,3,2502.49,7507.46,4131.98,3375.48,0.03
+2025-08-22,August,Q3,Data Suite,Software,Central,Hank Torres,6,3079.89,18479.35,11017.13,7462.22,0.07
+2025-08-22,August,Q3,Data Suite,Software,Central,Carol Lee,6,3271.93,19631.6,13133.91,6497.69,0.05
+2025-08-23,August,Q3,Analytics Pro,Software,East,Hank Torres,9,4501.89,40516.99,27330.6,13186.39,0.05
+2025-08-23,August,Q3,Analytics Pro,Software,East,David Kim,1,4067.89,4067.89,2630.21,1437.68,0.13
+2025-08-24,August,Q3,Cloud Sync,Services,South,Eva Patel,4,2599.02,10396.06,6965.21,3430.85,0.11
+2025-08-24,August,Q3,AutoReport,Support,North,Grace Obi,2,2365.31,4730.62,2877.76,1852.86,0.12
+2025-08-25,August,Q3,Analytics Pro,Software,South,Bob Martinez,1,4992.07,4992.07,2645.13,2346.94,0.12
+2025-08-26,August,Q3,AutoReport,Support,Central,Hank Torres,11,2186.32,24049.48,16061.8,7987.68,0.08
+2025-08-26,August,Q3,AutoReport,Support,Central,Grace Obi,6,2100.86,12605.15,6612.56,5992.59,0.13
+2025-08-29,August,Q3,AutoReport,Support,West,Eva Patel,3,2198.59,6595.78,4481.91,2113.87,0.07
+2025-08-29,August,Q3,Data Suite,Software,South,Hank Torres,6,3284.8,19708.82,11210.98,8497.84,0.12
+2025-08-29,August,Q3,Data Suite,Software,East,Hank Torres,8,3216.46,25731.65,16548.29,9183.36,0.12
+2025-08-29,August,Q3,Insight Engine,Consulting,Central,Alice Johnson,2,4568.91,9137.82,4779.45,4358.37,0.03
+2025-08-31,August,Q3,Data Suite,Software,West,Grace Obi,4,3674.18,14696.73,7864.1,6832.63,0.1
+2025-09-01,September,Q3,Insight Engine,Consulting,East,David Kim,11,3927.16,43198.75,24380.07,18818.68,0.12
+2025-09-02,September,Q3,AutoReport,Support,Central,Carol Lee,1,2224.06,2224.06,1498.4,725.66,0.01
+2025-09-03,September,Q3,Data Suite,Software,East,Eva Patel,1,3079.41,3079.41,1705.65,1373.76,0.03
+2025-09-03,September,Q3,Cloud Sync,Services,South,Grace Obi,6,2324.25,13945.48,7901.95,6043.53,0.1
+2025-09-03,September,Q3,Insight Engine,Consulting,West,Bob Martinez,8,4353.5,34828.02,22080.41,12747.61,0.07
+2025-09-03,September,Q3,AutoReport,Support,West,Grace Obi,10,2057.57,20575.69,10942.15,9633.54,0.15
+2025-09-04,September,Q3,Cloud Sync,Services,East,Bob Martinez,8,2533.15,20265.18,13660.01,6605.17,0.02
+2025-09-05,September,Q3,Insight Engine,Consulting,South,Frank Chen,10,4044.18,40441.76,21959.35,18482.41,0.13
+2025-09-06,September,Q3,Data Suite,Software,Central,Carol Lee,12,3045.96,36551.56,24477.93,12073.63,0.09
+2025-09-06,September,Q3,Analytics Pro,Software,Central,Carol Lee,3,4304.02,12912.07,8077.28,4834.79,0.14
+2025-09-06,September,Q3,Data Suite,Software,East,Hank Torres,2,3123.45,6246.91,3961.59,2285.32,0.04
+2025-09-06,September,Q3,Cloud Sync,Services,North,Alice Johnson,2,2583.86,5167.71,3204.96,1962.75,0.13
+2025-09-07,September,Q3,Cloud Sync,Services,Central,Alice Johnson,12,3017.63,36211.58,19369.67,16841.91,0.15
+2025-09-08,September,Q3,Data Suite,Software,Central,Eva Patel,11,3649.37,40143.04,23534.9,16608.14,0.07
+2025-09-09,September,Q3,AutoReport,Support,South,Frank Chen,7,2011.67,14081.71,7954.03,6127.68,0.12
+2025-09-09,September,Q3,Analytics Pro,Software,West,Frank Chen,7,5288.56,37019.95,21224.62,15795.33,0.1
+2025-09-10,September,Q3,AutoReport,Support,East,Carol Lee,8,2383.44,19067.52,10030.93,9036.59,0.01
+2025-09-10,September,Q3,Analytics Pro,Software,North,David Kim,9,4846.82,43621.34,23629.95,19991.39,0.07
+2025-09-11,September,Q3,AutoReport,Support,Central,David Kim,8,1964.21,15713.65,8440.05,7273.6,0.05
+2025-09-11,September,Q3,Data Suite,Software,East,Alice Johnson,1,3148.24,3148.24,1787.39,1360.85,0.09
+2025-09-11,September,Q3,Cloud Sync,Services,East,Eva Patel,6,3106.57,18639.44,11324.76,7314.68,0.02
+2025-09-12,September,Q3,Cloud Sync,Services,Central,Eva Patel,3,2562.74,7688.21,4455.31,3232.9,0.11
+2025-09-12,September,Q3,Insight Engine,Consulting,North,Hank Torres,6,3460.87,20765.23,13835.72,6929.51,0.06
+2025-09-13,September,Q3,Cloud Sync,Services,West,Alice Johnson,2,2825.43,5650.86,3793.07,1857.79,0.08
+2025-09-15,September,Q3,AutoReport,Support,West,Carol Lee,4,1918.94,7675.76,4975.44,2700.32,0.02
+2025-09-16,September,Q3,AutoReport,Support,North,David Kim,12,2208.81,26505.74,16539.09,9966.65,0.08
+2025-09-17,September,Q3,AutoReport,Support,North,Grace Obi,8,1966.86,15734.85,8291.72,7443.13,0.06
+2025-09-18,September,Q3,Insight Engine,Consulting,North,Alice Johnson,2,3584.0,7167.99,3902.65,3265.34,0.02
+2025-09-19,September,Q3,Insight Engine,Consulting,South,Bob Martinez,5,3698.72,18493.61,11141.89,7351.72,0.09
+2025-09-19,September,Q3,Analytics Pro,Software,West,David Kim,5,4069.37,20346.83,10724.85,9621.98,0.07
+2025-09-22,September,Q3,Analytics Pro,Software,East,Bob Martinez,3,4744.66,14233.97,8022.93,6211.04,0.14
+2025-09-22,September,Q3,Insight Engine,Consulting,North,David Kim,4,4017.22,16068.87,8520.42,7548.45,0.0
+2025-09-23,September,Q3,Data Suite,Software,Central,Frank Chen,11,3430.3,37733.27,22509.38,15223.89,0.06
+2025-09-23,September,Q3,AutoReport,Support,Central,David Kim,8,1878.2,15025.61,8712.74,6312.87,0.07
+2025-09-24,September,Q3,AutoReport,Support,South,Frank Chen,7,2236.5,15655.53,8316.15,7339.38,0.1
+2025-09-25,September,Q3,Insight Engine,Consulting,West,Hank Torres,5,4668.53,23342.66,15350.76,7991.9,0.15
+2025-09-25,September,Q3,Cloud Sync,Services,Central,Hank Torres,8,2866.33,22930.65,13522.02,9408.63,0.11
+2025-09-28,September,Q3,Analytics Pro,Software,East,Frank Chen,3,4638.26,13914.79,8096.93,5817.86,0.13
+2025-09-28,September,Q3,Cloud Sync,Services,Central,Alice Johnson,11,2596.6,28562.63,18146.28,10416.35,0.1
+2025-09-29,September,Q3,Data Suite,Software,West,David Kim,5,3262.38,16311.92,9012.89,7299.03,0.1
+2025-09-29,September,Q3,Analytics Pro,Software,Central,Frank Chen,8,4524.31,36194.48,18933.92,17260.56,0.14
+2025-10-01,October,Q4,Analytics Pro,Software,South,Grace Obi,6,3987.99,23927.93,16022.93,7905.0,0.15
+2025-10-02,October,Q4,Cloud Sync,Services,East,Bob Martinez,5,2483.64,12418.22,7321.32,5096.9,0.07
+2025-10-02,October,Q4,Cloud Sync,Services,South,Hank Torres,5,2671.02,13355.08,7934.73,5420.35,0.13
+2025-10-02,October,Q4,Analytics Pro,Software,West,Frank Chen,11,4149.11,45640.26,29202.55,16437.71,0.04
+2025-10-02,October,Q4,AutoReport,Support,Central,Carol Lee,5,1880.85,9404.25,5016.0,4388.25,0.01
+2025-10-03,October,Q4,Insight Engine,Consulting,Central,Carol Lee,12,4096.04,49152.53,33256.4,15896.13,0.13
+2025-10-03,October,Q4,Cloud Sync,Services,Central,Eva Patel,3,2936.72,8810.17,4735.26,4074.91,0.11
+2025-10-05,October,Q4,Cloud Sync,Services,North,Frank Chen,1,2807.9,2807.9,1801.07,1006.83,0.06
+2025-10-06,October,Q4,Insight Engine,Consulting,East,Frank Chen,7,3398.79,23791.52,13401.04,10390.48,0.0
+2025-10-06,October,Q4,AutoReport,Support,North,Carol Lee,6,2215.94,13295.67,6947.06,6348.61,0.03
+2025-10-06,October,Q4,Cloud Sync,Services,Central,Alice Johnson,11,3036.8,33404.75,21737.7,11667.05,0.04
+2025-10-07,October,Q4,Insight Engine,Consulting,South,Alice Johnson,9,4167.59,37508.31,19707.31,17801.0,0.13
+2025-10-08,October,Q4,AutoReport,Support,South,Carol Lee,3,2199.99,6599.96,3778.47,2821.49,0.08
+2025-10-09,October,Q4,Cloud Sync,Services,East,Hank Torres,5,2763.87,13819.36,7864.04,5955.32,0.03
+2025-10-09,October,Q4,Analytics Pro,Software,West,David Kim,8,4554.14,36433.13,23595.18,12837.95,0.12
+2025-10-09,October,Q4,Insight Engine,Consulting,North,Bob Martinez,5,3860.09,19300.45,11219.01,8081.44,0.06
+2025-10-09,October,Q4,Analytics Pro,Software,West,Bob Martinez,6,4296.13,25776.8,14444.9,11331.9,0.02
+2025-10-10,October,Q4,AutoReport,Support,South,Carol Lee,7,2374.25,16619.72,9979.45,6640.27,0.13
+2025-10-10,October,Q4,Data Suite,Software,Central,Bob Martinez,2,2937.76,5875.51,3346.02,2529.49,0.15
+2025-10-10,October,Q4,AutoReport,Support,West,Hank Torres,6,2045.89,12275.36,8091.13,4184.23,0.15
+2025-10-10,October,Q4,Cloud Sync,Services,South,Eva Patel,10,2829.29,28292.86,17127.27,11165.59,0.08
+2025-10-11,October,Q4,Data Suite,Software,Central,David Kim,1,3046.24,3046.24,1618.65,1427.59,0.09
+2025-10-12,October,Q4,AutoReport,Support,West,Bob Martinez,1,2461.73,2461.73,1315.4,1146.33,0.08
+2025-10-14,October,Q4,Insight Engine,Consulting,East,Carol Lee,11,3925.54,43180.99,27309.94,15871.05,0.14
+2025-10-15,October,Q4,Analytics Pro,Software,East,Eva Patel,12,4659.77,55917.3,33069.7,22847.6,0.15
+2025-10-15,October,Q4,Cloud Sync,Services,Central,David Kim,11,3059.53,33654.78,17840.89,15813.89,0.12
+2025-10-17,October,Q4,Insight Engine,Consulting,Central,Bob Martinez,10,3421.36,34213.56,18416.24,15797.32,0.12
+2025-10-17,October,Q4,AutoReport,Support,East,Eva Patel,4,2049.41,8197.66,5141.21,3056.45,0.05
+2025-10-18,October,Q4,AutoReport,Support,North,Alice Johnson,3,1890.72,5672.15,3092.37,2579.78,0.09
+2025-10-18,October,Q4,Data Suite,Software,East,Carol Lee,5,2947.65,14738.27,9487.51,5250.76,0.13
+2025-10-18,October,Q4,Insight Engine,Consulting,East,Alice Johnson,2,4025.33,8050.67,5067.97,2982.7,0.04
+2025-10-18,October,Q4,Cloud Sync,Services,South,Hank Torres,7,2371.43,16599.98,10981.71,5618.27,0.1
+2025-10-19,October,Q4,Cloud Sync,Services,West,Bob Martinez,8,2977.19,23817.53,15009.53,8808.0,0.1
+2025-10-19,October,Q4,Data Suite,Software,West,Frank Chen,5,3279.59,16397.96,10529.75,5868.21,0.07
+2025-10-19,October,Q4,Data Suite,Software,Central,Alice Johnson,10,3170.39,31703.94,16901.92,14802.02,0.1
+2025-10-22,October,Q4,AutoReport,Support,North,Eva Patel,10,1864.49,18644.89,9815.36,8829.53,0.11
+2025-10-22,October,Q4,Insight Engine,Consulting,West,Alice Johnson,6,4011.42,24068.51,13665.57,10402.94,0.06
+2025-10-22,October,Q4,Cloud Sync,Services,Central,Frank Chen,4,2767.06,11068.24,6289.88,4778.36,0.02
+2025-10-23,October,Q4,Cloud Sync,Services,South,Grace Obi,10,3060.55,30605.49,19043.92,11561.57,0.07
+2025-10-24,October,Q4,AutoReport,Support,South,Alice Johnson,10,2000.99,20009.87,11943.33,8066.54,0.08
+2025-10-24,October,Q4,Analytics Pro,Software,North,Grace Obi,6,4062.89,24377.35,15407.99,8969.36,0.08
+2025-10-27,October,Q4,Insight Engine,Consulting,Central,Grace Obi,6,3724.57,22347.4,12404.85,9942.55,0.15
+2025-10-27,October,Q4,AutoReport,Support,West,Eva Patel,3,2064.14,6192.42,3414.44,2777.98,0.03
+2025-10-27,October,Q4,AutoReport,Support,East,Grace Obi,10,2556.99,25569.88,15466.94,10102.94,0.07
+2025-10-28,October,Q4,AutoReport,Support,West,Carol Lee,8,1968.41,15747.31,9545.59,6201.72,0.05
+2025-10-29,October,Q4,Insight Engine,Consulting,Central,Bob Martinez,7,4228.79,29601.5,19515.79,10085.71,0.11
+2025-10-29,October,Q4,AutoReport,Support,Central,Eva Patel,2,2416.88,4833.76,3157.51,1676.25,0.04
+2025-10-30,October,Q4,Cloud Sync,Services,North,Hank Torres,2,2850.95,5701.9,3444.82,2257.08,0.07
+2025-10-30,October,Q4,Data Suite,Software,West,Hank Torres,1,3117.73,3117.73,2106.23,1011.5,0.14
+2025-10-31,October,Q4,Data Suite,Software,Central,Hank Torres,1,2677.96,2677.96,1395.99,1281.97,0.05
+2025-10-31,October,Q4,Analytics Pro,Software,West,David Kim,10,4797.79,47977.86,25281.38,22696.48,0.12
+2025-11-01,November,Q4,Cloud Sync,Services,West,Grace Obi,9,2984.11,26856.96,15881.76,10975.2,0.02
+2025-11-02,November,Q4,Data Suite,Software,Central,Grace Obi,7,2926.69,20486.82,11262.03,9224.79,0.1
+2025-11-02,November,Q4,AutoReport,Support,East,Grace Obi,1,1971.09,1971.09,1117.01,854.08,0.06
+2025-11-02,November,Q4,Data Suite,Software,North,Eva Patel,1,3252.09,3252.09,2111.86,1140.23,0.07
+2025-11-05,November,Q4,Insight Engine,Consulting,South,Hank Torres,6,4186.37,25118.24,14858.46,10259.78,0.11
+2025-11-05,November,Q4,Data Suite,Software,North,Hank Torres,1,3425.7,3425.7,1963.19,1462.51,0.09
+2025-11-05,November,Q4,Analytics Pro,Software,North,David Kim,10,4317.5,43175.0,27454.5,15720.5,0.08
+2025-11-06,November,Q4,Cloud Sync,Services,Central,Alice Johnson,1,2478.37,2478.37,1320.96,1157.41,0.14
+2025-11-06,November,Q4,Insight Engine,Consulting,North,Bob Martinez,11,4095.21,45047.29,28116.12,16931.17,0.12
+2025-11-08,November,Q4,Data Suite,Software,South,Frank Chen,3,3142.2,9426.6,5715.35,3711.25,0.12
+2025-11-09,November,Q4,Insight Engine,Consulting,West,Frank Chen,2,4153.82,8307.63,4852.76,3454.87,0.01
+2025-11-10,November,Q4,Data Suite,Software,Central,Bob Martinez,8,2934.46,23475.72,12735.65,10740.07,0.11
+2025-11-11,November,Q4,AutoReport,Support,North,Eva Patel,1,1845.51,1845.51,1012.94,832.57,0.11
+2025-11-11,November,Q4,Cloud Sync,Services,South,Carol Lee,7,3141.18,21988.26,12513.34,9474.92,0.1
+2025-11-12,November,Q4,Insight Engine,Consulting,East,Alice Johnson,12,4156.48,49877.79,28893.45,20984.34,0.07
+2025-11-13,November,Q4,Insight Engine,Consulting,East,Bob Martinez,7,4237.91,29665.38,19434.31,10231.07,0.04
+2025-11-13,November,Q4,Cloud Sync,Services,Central,David Kim,12,2971.91,35662.86,18941.57,16721.29,0.1
+2025-11-14,November,Q4,Insight Engine,Consulting,South,David Kim,1,4165.08,4165.08,2547.41,1617.67,0.11
+2025-11-14,November,Q4,AutoReport,Support,East,Frank Chen,5,2154.22,10771.08,6970.93,3800.15,0.01
+2025-11-15,November,Q4,Insight Engine,Consulting,West,Alice Johnson,4,3742.92,14971.66,8424.99,6546.67,0.02
+2025-11-16,November,Q4,Data Suite,Software,West,Alice Johnson,7,3079.19,21554.3,12464.59,9089.71,0.11
+2025-11-16,November,Q4,Insight Engine,Consulting,North,Frank Chen,11,3398.47,37383.12,24579.21,12803.91,0.06
+2025-11-17,November,Q4,AutoReport,Support,South,Grace Obi,2,2291.99,4583.99,2783.08,1800.91,0.1
+2025-11-18,November,Q4,Analytics Pro,Software,Central,Frank Chen,3,4681.8,14045.39,7403.24,6642.15,0.08
+2025-11-18,November,Q4,AutoReport,Support,East,Eva Patel,8,2101.72,16813.75,9401.92,7411.83,0.12
+2025-11-19,November,Q4,Analytics Pro,Software,South,Carol Lee,10,4490.46,44904.55,30169.58,14734.97,0.01
+2025-11-20,November,Q4,Cloud Sync,Services,North,Frank Chen,2,2626.89,5253.77,3200.99,2052.78,0.06
+2025-11-20,November,Q4,Cloud Sync,Services,East,Alice Johnson,6,3663.01,21978.07,13212.64,8765.43,0.05
+2025-11-21,November,Q4,Analytics Pro,Software,West,Eva Patel,12,4410.37,52924.47,35449.54,17474.93,0.06
+2025-11-22,November,Q4,AutoReport,Support,East,Frank Chen,3,2186.53,6559.58,3872.53,2687.05,0.07
+2025-11-22,November,Q4,Data Suite,Software,Central,Eva Patel,11,3275.03,36025.29,23088.33,12936.96,0.12
+2025-11-22,November,Q4,Cloud Sync,Services,North,Grace Obi,4,2944.56,11778.26,7949.15,3829.11,0.12
+2025-11-23,November,Q4,AutoReport,Support,West,Hank Torres,1,1931.58,1931.58,1006.47,925.11,0.08
+2025-11-23,November,Q4,Analytics Pro,Software,South,Bob Martinez,8,5051.79,40414.29,26481.58,13932.71,0.1
+2025-11-24,November,Q4,Analytics Pro,Software,North,Eva Patel,4,4678.82,18715.27,10400.33,8314.94,0.11
+2025-11-25,November,Q4,Insight Engine,Consulting,East,Grace Obi,8,4147.0,33175.99,21867.6,11308.39,0.14
+2025-11-25,November,Q4,Insight Engine,Consulting,West,Carol Lee,12,4360.31,52323.73,33863.71,18460.02,0.03
+2025-11-25,November,Q4,Analytics Pro,Software,West,Hank Torres,11,4050.8,44558.78,26859.03,17699.75,0.02
+2025-11-26,November,Q4,AutoReport,Support,South,Alice Johnson,7,1939.47,13576.28,8758.15,4818.13,0.05
+2025-11-26,November,Q4,Data Suite,Software,West,Hank Torres,11,3421.63,37637.97,20669.44,16968.53,0.02
+2025-11-27,November,Q4,Analytics Pro,Software,North,Grace Obi,12,4119.22,49430.69,28387.47,21043.22,0.13
+2025-11-27,November,Q4,Insight Engine,Consulting,South,Bob Martinez,6,4079.89,24479.31,13209.14,11270.17,0.14
+2025-11-28,November,Q4,Data Suite,Software,East,Frank Chen,1,3078.41,3078.41,2027.22,1051.19,0.05
+2025-11-29,November,Q4,Analytics Pro,Software,East,Grace Obi,12,4631.98,55583.7,37382.73,18200.97,0.04
+2025-11-30,November,Q4,AutoReport,Support,South,Eva Patel,6,1999.3,11995.81,7395.58,4600.23,0.1
+2025-12-01,December,Q4,Data Suite,Software,East,Alice Johnson,8,3285.07,26280.58,14771.01,11509.57,0.13
+2025-12-01,December,Q4,Insight Engine,Consulting,East,Alice Johnson,2,4394.84,8789.67,5176.66,3613.01,0.13
+2025-12-04,December,Q4,AutoReport,Support,East,Hank Torres,11,2102.18,23124.03,15591.24,7532.79,0.01
+2025-12-05,December,Q4,AutoReport,Support,South,Grace Obi,5,1961.32,9806.58,5531.15,4275.43,0.08
+2025-12-06,December,Q4,AutoReport,Support,East,Hank Torres,9,1965.22,17686.96,10699.68,6987.28,0.06
+2025-12-06,December,Q4,Analytics Pro,Software,South,Eva Patel,2,4623.7,9247.41,6125.06,3122.35,0.11
+2025-12-08,December,Q4,Data Suite,Software,North,Alice Johnson,12,3068.45,36821.4,19955.5,16865.9,0.0
+2025-12-08,December,Q4,Insight Engine,Consulting,East,Grace Obi,12,3877.53,46530.39,26396.92,20133.47,0.02
+2025-12-09,December,Q4,Analytics Pro,Software,North,Grace Obi,3,4442.42,13327.27,8726.79,4600.48,0.03
+2025-12-10,December,Q4,Analytics Pro,Software,West,Frank Chen,11,4757.04,52327.44,35089.78,17237.66,0.06
+2025-12-10,December,Q4,AutoReport,Support,West,Carol Lee,7,2169.35,15185.43,9487.67,5697.76,0.13
+2025-12-10,December,Q4,Insight Engine,Consulting,Central,Frank Chen,12,4028.83,48346.02,28360.35,19985.67,0.02
+2025-12-11,December,Q4,Cloud Sync,Services,North,Grace Obi,5,2574.65,12873.26,8375.76,4497.5,0.11
+2025-12-12,December,Q4,Analytics Pro,Software,East,Hank Torres,11,4562.35,50185.8,29501.34,20684.46,0.09
+2025-12-12,December,Q4,Analytics Pro,Software,South,Alice Johnson,1,4681.46,4681.46,3077.55,1603.91,0.0
+2025-12-13,December,Q4,AutoReport,Support,North,Grace Obi,1,2076.77,2076.77,1089.82,986.95,0.03
+2025-12-13,December,Q4,Insight Engine,Consulting,West,David Kim,2,3680.96,7361.92,4525.63,2836.29,0.12
+2025-12-14,December,Q4,AutoReport,Support,West,Eva Patel,1,1951.51,1951.51,1083.64,867.87,0.15
+2025-12-14,December,Q4,AutoReport,Support,Central,Carol Lee,6,2407.69,14446.11,9818.04,4628.07,0.07
+2025-12-15,December,Q4,Data Suite,Software,North,Alice Johnson,5,3017.13,15085.63,9748.0,5337.63,0.01
+2025-12-15,December,Q4,AutoReport,Support,West,Bob Martinez,10,2104.12,21041.18,11935.83,9105.35,0.04
+2025-12-15,December,Q4,Cloud Sync,Services,Central,Hank Torres,4,2982.08,11928.32,8029.83,3898.49,0.04
+2025-12-15,December,Q4,Insight Engine,Consulting,Central,Bob Martinez,7,3998.05,27986.32,16261.71,11724.61,0.15
+2025-12-16,December,Q4,Data Suite,Software,South,Carol Lee,2,2861.96,5723.93,3534.63,2189.3,0.06
+2025-12-16,December,Q4,Analytics Pro,Software,Central,Carol Lee,9,4333.17,38998.53,24828.82,14169.71,0.02
+2025-12-16,December,Q4,Insight Engine,Consulting,South,Frank Chen,4,4860.61,19442.44,12935.61,6506.83,0.04
+2025-12-16,December,Q4,Data Suite,Software,West,Carol Lee,4,3333.62,13334.47,7917.79,5416.68,0.04
+2025-12-17,December,Q4,AutoReport,Support,North,Grace Obi,9,2488.86,22399.76,12944.65,9455.11,0.05
+2025-12-20,December,Q4,Data Suite,Software,East,Grace Obi,11,2905.35,31958.8,19941.67,12017.13,0.07
+2025-12-22,December,Q4,Data Suite,Software,Central,Carol Lee,8,3163.55,25308.41,14329.97,10978.44,0.03
+2025-12-23,December,Q4,Insight Engine,Consulting,East,Bob Martinez,5,3365.5,16827.51,8870.61,7956.9,0.11
+2025-12-24,December,Q4,Insight Engine,Consulting,South,Bob Martinez,2,3809.94,7619.88,4601.66,3018.22,0.04
+2025-12-25,December,Q4,Cloud Sync,Services,West,Bob Martinez,10,2774.84,27748.39,14853.5,12894.89,0.02
+2025-12-25,December,Q4,Cloud Sync,Services,West,Bob Martinez,3,2616.17,7848.5,4138.16,3710.34,0.01
+2025-12-26,December,Q4,AutoReport,Support,Central,Bob Martinez,2,2003.08,4006.16,2576.09,1430.07,0.1
+2025-12-26,December,Q4,AutoReport,Support,West,David Kim,4,2078.14,8312.54,5227.38,3085.16,0.09
+2025-12-26,December,Q4,Cloud Sync,Services,Central,Alice Johnson,9,2482.96,22346.61,15009.99,7336.62,0.01
+2025-12-27,December,Q4,Cloud Sync,Services,North,Eva Patel,6,2730.5,16383.0,10130.27,6252.73,0.03
+2025-12-27,December,Q4,Analytics Pro,Software,Central,Bob Martinez,9,4284.22,38558.02,21203.58,17354.44,0.05
+2025-12-28,December,Q4,Cloud Sync,Services,West,Hank Torres,8,2906.08,23248.68,12995.94,10252.74,0.08
+2025-12-28,December,Q4,Insight Engine,Consulting,West,Carol Lee,8,3515.97,28127.76,18968.57,9159.19,0.02
+2025-12-29,December,Q4,Cloud Sync,Services,West,Alice Johnson,5,2603.86,13019.31,7206.83,5812.48,0.1
+2025-12-29,December,Q4,Data Suite,Software,North,David Kim,9,3195.13,28756.19,17051.31,11704.88,0.01
+2025-12-29,December,Q4,AutoReport,Support,East,Hank Torres,1,2065.04,2065.04,1195.53,869.51,0.1
+2025-12-29,December,Q4,Data Suite,Software,West,Alice Johnson,9,2989.51,26905.6,15767.45,11138.15,0.06
+2025-12-30,December,Q4,Insight Engine,Consulting,East,Bob Martinez,7,4074.96,28524.75,14928.06,13596.69,0.05
+2025-12-31,December,Q4,AutoReport,Support,North,Hank Torres,8,2260.46,18083.71,10881.42,7202.29,0.01
